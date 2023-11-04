@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url("Amazon-Emblem.JPG");
+    background-image: url("Amazon-Emblem.jpg");
     background-size: cover;
     /* margin-left: 10px;  */
     height: 50px;
@@ -133,7 +133,7 @@ span{
 
 /* amazonbackgimg */
 .hero-section{
-    background-image: url(amazonbackgimg.JPG);
+    background-image: url("amazonbackgimg.jpg");
     background-size: cover;
     height: 300px;
     display: flex;
